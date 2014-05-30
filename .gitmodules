@@ -1,9 +1,0 @@
-[submodule "term2048"]
-	path = term2048
-	url = https://github.com/nerds-odd-e/term2048.git
-	branch = exercise
-
-[submodule "pep8"]
-	path = pep8
-	url = https://github.com/nerds-odd-e/pep8.git
-	branch = exercise
